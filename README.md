@@ -1,11 +1,11 @@
-# Elite Swap SDK
+# Xswap SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/EthereumEliteswap/eliteswap-sdk/workflows/CI/badge.svg)](https://github.com/EthereumEliteswap/eliteswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@eliteswap/sdk/latest.svg)](https://www.npmjs.com/package/@eliteswap/sdk/v/latest)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@eliteswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@eliteswap/sdk@latest)
+[![Actions Status](https://github.com/xswap/xswap-sdk/workflows/CI/badge.svg)](https://github.com/xswap/xswap-sdk)
+[![npm version](https://img.shields.io/npm/v/@xswap/sdk/latest.svg)](https://www.npmjs.com/package/@xswap/sdk/v/latest)
+[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@xswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@xswap/sdk@latest)
 
-In-depth documentation on this SDK is available at [eliteswap.org](https://eliteswap.org/docs/v2/SDK/getting-started/).
+In-depth documentation on this SDK is available at [xswap.org](https://xswap.org/docs/v2/SDK/getting-started/).
 
 ## Running tests
 
@@ -14,13 +14,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/EthereumEliteswap/eliteswap-sdk.git
+git clone https://github.com/xswap/xswap-sdk.git
 ```
 
-Move into the eliteswap-sdk working directory
+Move into the xswap-sdk working directory
 
 ```sh
-cd eliteswap-sdk/
+cd xswap-sdk/
 ```
 
 Install dependencies

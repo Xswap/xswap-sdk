@@ -1,8 +1,8 @@
 {
-  "name": "@eliteswap/sdk",
+  "name": "@xswap/sdk",
   "license": "GPL-3.0-or-later",
   "version": "3.0.5",
-  "description": "🛠 An SDK for building applications on top of Elite Swap.",
+  "description": "🛠 An SDK for building applications on top of Xswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EthereumEliteswap/eliteswap-sdk.git"
+    "url": "git+https://github.com/xswap/xswap-sdk.git"
   },
   "keywords": [
-    "eliteswap",
+    "xswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -25,7 +25,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@eliteswap/v2-core": "^1.0.0",
+    "@xswap/v2-core": "^1.0.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
@@ -60,9 +60,9 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/EthereumEliteswap/eliteswap-sdk/issues"
+    "url": "https://github.com/xswap/xswap-sdk/issues"
   },
-  "homepage": "https://github.com/EthereumEliteswap/eliteswap-sdk#readme",
+  "homepage": "https://github.com/xswap/xswap-sdk#readme",
   "directories": {
     "test": "test"
   },
